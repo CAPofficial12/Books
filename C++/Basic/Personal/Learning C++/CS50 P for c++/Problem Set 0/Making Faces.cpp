@@ -25,5 +25,7 @@ int main(){
     }
 
     cout << message << endl;
+
+    cin.get();
     return 0;
 }
